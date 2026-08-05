@@ -4,6 +4,12 @@ A full-stack **online banking application** built with a **Spring Boot microserv
 
 ---
 
+<h2>🎥 Demo Video</h2>
+
+https://github.com/user-attachments/assets/80c0a0a3-b119-4af1-a1bd-2bb842fa8193
+
+---
+
 ## 🧱 Architecture Overview
 
 ```
